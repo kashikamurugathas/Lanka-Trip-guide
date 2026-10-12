@@ -1,0 +1,6 @@
+{
+  "name": "Lanka Trip Guide",
+  "description": "Your comprehensive Sri Lanka travel guide featuring authentic destinations, tour packages, local hotels, an interactive trip planner, and cultural travel tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
